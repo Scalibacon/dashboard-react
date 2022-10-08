@@ -1,0 +1,21 @@
+.sideNavbar{
+
+  a{
+    display: flex;
+    align-items: center;
+    font-size: 0.95rem;
+  }
+}
+.alternativeColor{
+  color: #932653;
+}
+.listTitle{
+  margin-top: 3rem !important;
+  margin-bottom: 0.7rem !important;
+  font-size: 0.75rem;
+  font-weight: 800;
+  color: rgba(255,255,255,0.5);
+}
+.externalLink{
+  margin-left: 8px;
+}
